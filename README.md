@@ -31,7 +31,7 @@ A private cloud is a cloud infrastructure that is dedicated to a single organisa
 Use Cases:
 1, Highly Regulated Industries: Industries such as healthcare, finance, and government often have strict compliance requirements that necessitate a private cloud… fintech 
 2, Large Enterprises: Organisations with sensitive data or unique requirements may prefer a private cloud to maintain control over their infrastructure.
-3, Hybrid Environments: Private clouds can be used as part of a hybrid cloud strategy to complement public cloud services… nutanix x azure. Talking hybrid
+3, Hybrid Environments: Private clouds can be used as part of a hybrid cloud strategy to complement public cloud services where Nutanix and Azure Cloud are good examples.
 
 
 HYBRID CLOUD.
