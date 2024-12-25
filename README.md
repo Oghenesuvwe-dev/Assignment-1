@@ -1,10 +1,4 @@
-Assignment 1: 
 Research Paper: Write a 2-page paper on the different cloud deployment models (Public, Private, Hybrid) and their use cases.
-Practical Task: Create an Azure account and explore the Azure Portal. Capture screenshots of key features (e.g., creating a VM, browsing services).
-For now, you can submit this to my email address mygodsent002@outlook.com.
-Subsequently, you will place them on your GitHub page and share them with me.
-
-
 
 SOLUTION....
 
@@ -46,10 +40,21 @@ USE CASES:
 
 
 USE CASES:
-Startups and Small Businesses: Public clouds provide a cost-effective way to get started without significant upfront investments in hardware or infrastructure. They allow startups to scale their operations as needed without the need for large capital expenditures.
-Large Enterprises: Public clouds can be used to scale applications rapidly, handle peak workloads, and test new initiatives. For example, a large retail company can use a public cloud to handle increased demand during the holiday season.
-Non-Profit Organizations: Public clouds can offer affordable and scalable solutions for mission-critical applications. Non-profit organizations can leverage public clouds to reduce their IT costs and focus on their core mission.
-Developers and Innovators: Public clouds provide a vast ecosystem of tools and services for developing and deploying applications. Developers can easily access a wide range of resources, such as databases, analytics tools, and machine learning frameworks, to build and deploy their applications.
+Startups and Small Businesses: 
+Public clouds provide a cost-effective way to get started without significant upfront investments in hardware or infrastructure. 
+They allow startups to scale their operations as needed without the need for large capital expenditures.
+
+Large Enterprises: 
+Public clouds can be used to scale applications rapidly, handle peak workloads, and test new initiatives. 
+For example, a large retail company can use a public cloud to handle increased demand during the holiday season.
+
+Non-Profit Organizations:
+Public clouds can offer affordable and scalable solutions for mission-critical applications. 
+Non-profit organizations can leverage public clouds to reduce their IT costs and focus on their core mission.
+
+Developers and Innovators: 
+Public clouds provide a vast ecosystem of tools and services for developing and deploying applications.
+Developers can easily access a wide range of resources, such as databases, analytics tools, and machine learning frameworks, to build and deploy their applications.
 
 
 CHOOSING THE RIGHT DEPLOYMENT MODEL.
