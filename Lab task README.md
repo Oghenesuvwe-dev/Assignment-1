@@ -58,32 +58,38 @@ On azure homepage, Click on Marketplace.
 <br>
 
 <br>
-Contents under "Getting Started".
+Contents under "Getting Started"
+<br>
 <img width="730" alt="Get started with mrketplace" src="https://github.com/user-attachments/assets/45901d18-0606-4b28-8409-23b19f3ec795" />
 <br>
 
 <br>
-Contents under "Ai + Machine Learning".
+Contents under "Ai + Machine Learning"
+<br>
 <img width="730" alt="AI + Machine learning" src="https://github.com/user-attachments/assets/86f4726e-d192-4453-ac61-9a179f913584" />
 <br>
 
 <br>
-Contents under "DevOps".
+Contents under "DevOps"
+<br>
 <img width="730" alt="DevOps Category" src="https://github.com/user-attachments/assets/ee3104eb-6f5e-4443-bd5d-8aa51a88a192" />
 <br>
 
 <br>
-Contents under "Database".
+Contents under "Database"
+<br>
 <img width="730" alt="Database Category" src="https://github.com/user-attachments/assets/f831ed98-7d0e-4f1e-aac7-a3923dd2eb2b" />
 <br>
 
 <br>
-Contents under "Storage".
+Contents under "Storage"
+<br>
 <img width="730" alt="Storage category" src="https://github.com/user-attachments/assets/ded0e824-cd46-402a-afcd-e70213d1fcb9" />
 <br>
 
 <br>
 Contents under "Security"
+<br>
 <img width="730" alt="Security category" src="https://github.com/user-attachments/assets/ceac1a2d-0d32-4f9c-a26c-c03c5d0772dc" />
 <br>
 
