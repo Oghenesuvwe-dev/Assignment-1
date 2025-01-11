@@ -68,7 +68,7 @@ Contents under "Ai + Machine Learning".
 <br>
 
 <br>
-Contents under "Devops".
+Contents under "DevOps".
 <img width="730" alt="DevOps Category" src="https://github.com/user-attachments/assets/ee3104eb-6f5e-4443-bd5d-8aa51a88a192" />
 <br>
 
